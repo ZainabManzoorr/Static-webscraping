@@ -19,3 +19,4 @@ for laptop in laptops:
         # Filter
         if price_value < 100000:
             print(f"Company: {company_name} | Price: {price_value}")
+            print(f"company "{company})
